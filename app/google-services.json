@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758774737264",
+    "firebase_url": "https://smartreply-e2ef8.firebaseio.com",
+    "project_id": "smartreply-e2ef8",
+    "storage_bucket": "smartreply-e2ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758774737264:android:ba9feba90741dbf7e247b5",
+        "android_client_info": {
+          "package_name": "tech.spirit.automatedemailreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758774737264-fmo3r0rt8d2u3uk2lekuoqli958pdb2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.spirit.automatedemailreply",
+            "certificate_hash": "35c8c7029c0fdda397f28be3056026c9f8f8c77b"
+          }
+        },
+        {
+          "client_id": "758774737264-0h3nu2ftctt95fng0srd4amnnn70cvfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfLnimg3c9URVCb9GMBfzfBc1so0CW-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758774737264-0h3nu2ftctt95fng0srd4amnnn70cvfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

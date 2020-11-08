@@ -1,0 +1,2 @@
+rootProject.name='Automated Email Reply'
+include ':app'
